@@ -12,5 +12,5 @@ Solarized Dark for Xcode 5
 - Restart Xcode
 - Go to preferences and select **Solarized Dark @ArtSabintsev**
 
-## Created and maintained by:
+## Created and maintained by
 [Arthur Ariel Sabintsev](http://www.sabintsev.com)
