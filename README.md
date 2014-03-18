@@ -1,7 +1,6 @@
 Solarized Dark for Xcode 5
 ========================
 
-## Screenshot
 ![Forced Update](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/blob/master/solarizedDark.png?raw=true "Solarized Dark Screenshot") 
 
 ## Installation
