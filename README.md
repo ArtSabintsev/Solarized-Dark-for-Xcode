@@ -1,7 +1,5 @@
-Solarized Dark for Xcode
+Solarized Dark for Xcode 5
 ========================
-
-A [**Solarized**]() Dark theme for Xcode. Heavily adapted from [**Peter Steinberger's Solarized Theme for Xcode**](https://github.com/jjxavier/apple-xcode4-solarized)
 
 ## Screenshot
 ![Forced Update](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/blob/master/solarizedDark.png?raw=true "Solarized Dark Screenshot") 
