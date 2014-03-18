@@ -29,65 +29,65 @@
 	<key>DVTConsoleTextSelectionColor</key>
 	<string>0.32076 0.406575 0.440224 0.45</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
-	<string>0.653506 0.472476 0 1</string>
+	<string>1 1 1 1</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.0980392 0.0980392 0.0980392 1</string>
+	<string>0.0159244 0.126521 0.159696 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
-	<string>0.905714 0.905714 0.905714 1</string>
+	<string>0.505992 0.564858 0.563637 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
-	<string>0.653506 0.472476 0 1</string>
+	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.32076 0.406575 0.440224 0.45</string>
+	<string>0.0393807 0.160116 0.198333 1</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>0.653506 0.472476 0 1</string>
+		<string>0.647465 0.467514 0.0234848 1</string>
 		<key>xcode.syntax.character</key>
-		<string>0.845024 0.363792 0.257662 1</string>
+		<string>0.627451 0.158217 0 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.273199 0.356152 0.384519 1</string>
+		<string>0.27672 0.35666 0.382985 1</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>0.273199 0.356152 0.384519 1</string>
+		<string>0.27672 0.35666 0.382985 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>0.437649 0.509511 0.517715 1</string>
+		<string>0.27672 0.35666 0.382985 1</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>0.34798 0.341704 0.727421 1</string>
+		<string>0.347924 0.351372 0.717917 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>0.34798 0.341704 0.727421 1</string>
+		<string>0.347924 0.351372 0.717917 1</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>0.445678 0.546771 0 1</string>
+		<string>0.449775 0.541155 0.0202088 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0.445678 0.546771 0 1</string>
+		<string>0.449775 0.541155 0.0202088 1</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>0.100271 0.454959 0.792659 1</string>
+		<string>0.127549 0.462659 0.782314 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>0.100271 0.454959 0.792659 1</string>
+		<string>0.127549 0.462659 0.782314 1</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>0.653506 0.472476 0 1</string>
+		<string>0.647465 0.467514 0.0234848 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>0.653506 0.472476 0 1</string>
+		<string>0.647465 0.467514 0.0234848 1</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>0.34798 0.341704 0.727421 1</string>
+		<string>0.347924 0.351372 0.717917 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>0.34798 0.341704 0.727421 1</string>
+		<string>0.347924 0.351372 0.717917 1</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>0.109221 0.571582 0.526692 1</string>
+		<string>0.5 0.5 0.5 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>0.109221 0.571582 0.526692 1</string>
+		<string>0.146795 0.570824 0.525023 1</string>
 		<key>xcode.syntax.keyword</key>
-		<string>0.793626 0.0956333 0.435336 1</string>
+		<string>0.777389 0.108025 0.435166 1</string>
 		<key>xcode.syntax.number</key>
-		<string>0.845024 0.363792 0.257662 1</string>
+		<string>0.627451 0.158217 0 1</string>
 		<key>xcode.syntax.plain</key>
-		<string>0.507408 0.584716 0.582504 1</string>
+		<string>0.44058 0.509629 0.516858 1</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>0.653506 0.472476 0 1</string>
+		<string>0.647465 0.467514 0.0234848 1</string>
 		<key>xcode.syntax.string</key>
-		<string>0.75595 0.215588 0.0291611 1</string>
+		<string>0.741763 0.213253 0.0735304 1</string>
 		<key>xcode.syntax.url</key>
-		<string>0.32076 0.406575 0.440224 1</string>
+		<string>0.27672 0.35666 0.382985 1</string>
 	</dict>
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
