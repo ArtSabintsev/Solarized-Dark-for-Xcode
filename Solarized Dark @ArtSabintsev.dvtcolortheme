@@ -81,13 +81,13 @@
 		<key>xcode.syntax.number</key>
 		<string>0.862745 0.196078 0.184314 1</string>
 		<key>xcode.syntax.plain</key>
-		<string>0.513725 0.580392 0.588235 1</string>
+		<string>0.576471 0.631373 0.631373 1</string>
 		<key>xcode.syntax.preprocessor</key>
 		<string>0.709804 0.537255 0 1</string>
 		<key>xcode.syntax.string</key>
 		<string>0.796078 0.294118 0.0862745 1</string>
 		<key>xcode.syntax.url</key>
-		<string>0.513725 0.580392 0.588235 1</string>
+		<string>0.576471 0.631373 0.631373 1</string>
 	</dict>
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
