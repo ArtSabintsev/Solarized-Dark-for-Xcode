@@ -3,33 +3,33 @@
 <plist version="1.0">
 <dict>
 	<key>DVTConsoleDebuggerInputTextColor</key>
-	<string>0.44058 0.509629 0.516858 1</string>
+	<string>0.513725 0.580392 0.588235 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
 	<string>Menlo-Regular - 11.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
-	<string>0.44058 0.509629 0.516858 1</string>
+	<string>0.513725 0.580392 0.588235 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
 	<string>Menlo-Regular - 11.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
-	<string>0.347924 0.351372 0.717917 1</string>
+	<string>0.14902 0.545098 0.823529 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
 	<string>Menlo-Bold - 11.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
-	<string>0.44058 0.509629 0.516858 1</string>
+	<string>0.513725 0.580392 0.588235 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
 	<string>Menlo-Regular - 11.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
-	<string>0.44058 0.509629 0.516858 1</string>
+	<string>0.513725 0.580392 0.588235 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
 	<string>Menlo-Regular - 11.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>0.0159244 0.126521 0.159696 1</string>
+	<string>0 0.168627 0.211765 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
-	<string>0.905714 0.905714 0.905714 1</string>
+	<string>0.933333 0.909804 0.835294 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
-	<string>0.32076 0.406575 0.440224 0.45</string>
+	<string>0.027451 0.211765 0.258824 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
-	<string>1 1 1 1</string>
+	<string>0.513725 0.580392 0.588235 1</string>
 	<key>DVTSourceTextBackground</key>
 	<string>0 0.168627 0.211765 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>

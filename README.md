@@ -3,8 +3,8 @@ Solarized Dark for Xcode 5
 
 ![Forced Update](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/blob/master/solarizedDark.png?raw=true "Solarized Dark Screenshot") 
 
-## Changelog (April 10, 2014)
-- All colors are now using the True [Solarized Dark Color palette](http://ethanschoonover.com/solarized).
+## Changelog (May 1, 2014)
+- Added Solarized color scheme to console colors as well.
 
 ## Installation
 - Copy the .dvtcolortheme file into the following directory: 
