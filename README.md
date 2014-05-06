@@ -7,7 +7,11 @@ Solarized Dark for Xcode 5
 - Added Solarized color scheme to console colors as well.
 
 ## Installation
-- Copy the .dvtcolortheme file into the following directory: 
+### Automatic Installation
+Available in the [Alcatraz](http://www.alcatraz.io) package manager as *Solarized Dark for Xcode*.
+ 
+### Manual Installation
+Copy the .dvtcolortheme file into the following directory: 
 
 ```
 ~/Library/Developer/Xcode/UserData/FontAndColorThemes
