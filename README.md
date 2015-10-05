@@ -6,8 +6,8 @@ Solarized Dark for Xcode
 ## Background
 This theme works with Xcode 5, 6, and 7.
 
-## Changelog (May 1, 2014)
-- Added Solarized color scheme to console colors as well.
+## Changelog (October 5, 2014)
+- Updated readme
 
 ## Installation
 ### Automatic Installation
