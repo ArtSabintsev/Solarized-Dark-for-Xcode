@@ -6,9 +6,6 @@ Solarized Dark for Xcode
 ## Background
 This theme works with Xcode 5, 6, and 7.
 
-## Changelog (October 5, 2014)
-- Updated readme
-
 ## Installation
 ### Automatic Installation
 Available in the [Alcatraz](http://www.alcatraz.io) package manager as *Solarized Dark for Xcode*.
