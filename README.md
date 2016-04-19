@@ -10,6 +10,13 @@ This theme works with Xcode 5, 6, and 7.
 ### Automatic Installation
 Available in the [Alcatraz](http://www.alcatraz.io) package manager as *Solarized Dark for Xcode*.
  
+You can also run:
+```
+./install.sh
+```
+
+which will install the file in Xcode themes directory (mentioned below)
+
 ### Manual Installation
 Copy the .dvtcolortheme file into the following directory: 
 
