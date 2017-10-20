@@ -3,6 +3,12 @@ Solarized Dark for Xcode
 
 ![Solarized Dark Screen Shot](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/blob/master/solarizedDark.png?raw=true "Solarized Dark Screenshot")
 
+## Note
+
+I've moved away from using Solarized to a more _Night-Shift_-friendly theme, [Cognac](https://github.com/ArtSabintsev/Cognac), which has a theme for Xcode as well.
+
+I will still continue to support maintaining Solarized for the Xcode community.
+
 ## Background
 This theme works with Xcode 8 and 9.
 
