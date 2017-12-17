@@ -5,9 +5,9 @@ Solarized Dark for Xcode
 
 ## Note
 
-I've moved away from using Solarized to a _Night-Shift_-friendly palette of my own creation; theme is [Cognac](https://github.com/ArtSabintsev/Cognac). It's available for many editors, including [Xcode](https://github.com/ArtSabintsev/Cognac-Xcode).
+I've moved away from using Solarized to a _Night-Shift_-friendly palette of my own creation; [Cognac](https://github.com/ArtSabintsev/Cognac). It's available for many editors, including [Xcode](https://github.com/ArtSabintsev/Cognac-Xcode).
 
-I will still continue to support maintaining this Solarized Dark theme for the Xcode community.
+I will still continue supporting this Solarized Dark theme for the Xcode community.
 
 ## Background
 This theme works with Xcode 8 and 9.
