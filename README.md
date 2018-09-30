@@ -10,7 +10,7 @@ I've moved away from using Solarized to a _Night-Shift_-friendly palette of my o
 I will still continue supporting this Solarized Dark theme for the Xcode community.
 
 ## Background
-This theme works with Xcode 8 and 9.
+This theme works with Xcode 8, 9, and 10.
 
 This theme used to work with Xcode 5, 6, and 7, but due to the changes to the theme editor, this theme is no longer compatible.
 
