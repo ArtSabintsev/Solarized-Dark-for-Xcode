@@ -30,6 +30,8 @@
 	<string>0.027451 0.211765 0.258824 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.513725 0.580392 0.588235 1</string>
+	<key>DVTFontAndColorVersion</key>
+	<integer>1</integer>
 	<key>DVTLineSpacing</key>
 	<real>1.1000000238418579</real>
 	<key>DVTMarkupTextBackgroundColor</key>
@@ -106,6 +108,10 @@
 		<string>0.396078 0.482353 0.513725 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>0.933333 0.909804 0.835294 1</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>0.14902 0.545098 0.823529 1</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>0.14902 0.545098 0.823529 1</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.423529 0.443137 0.768627 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
@@ -132,6 +138,10 @@
 		<string>0.164706 0.631373 0.596078 1</string>
 		<key>xcode.syntax.keyword</key>
 		<string>0.827451 0.211765 0.509804 1</string>
+		<key>xcode.syntax.mark</key>
+		<string>0.572549 0.631373 0.694118 1</string>
+		<key>xcode.syntax.markup.code</key>
+		<string>0.827451 0.211765 0.509804 1</string>
 		<key>xcode.syntax.number</key>
 		<string>0.862745 0.196078 0.184314 1</string>
 		<key>xcode.syntax.plain</key>
@@ -154,6 +164,10 @@
 		<key>xcode.syntax.comment.doc</key>
 		<string>Menlo-Regular - 11.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.declaration.type</key>
 		<string>Menlo-Regular - 11.0</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>Menlo-Regular - 11.0</string>
@@ -180,6 +194,10 @@
 		<key>xcode.syntax.identifier.variable.system</key>
 		<string>Menlo-Regular - 11.0</string>
 		<key>xcode.syntax.keyword</key>
+		<string>Menlo-Regular - 11.0</string>
+		<key>xcode.syntax.mark</key>
+		<string>Menlo-Bold - 11.0</string>
+		<key>xcode.syntax.markup.code</key>
 		<string>Menlo-Regular - 11.0</string>
 		<key>xcode.syntax.number</key>
 		<string>Menlo-Regular - 11.0</string>
